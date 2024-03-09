@@ -1,0 +1,8 @@
+# Java class files
+*.class
+
+### IntelliJ IDEA ###
+.idea
+
+# Generated files
+out/
